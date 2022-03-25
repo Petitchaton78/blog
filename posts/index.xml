@@ -3,7 +3,14 @@
         <title>所有文章 - 米团</title>
         <link>http://example.org/posts/</link>
         <description>所有文章 | 米团</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Mar 2022 11:10:05 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Mar 2022 08:14:07 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Sigh</title>
+    <link>http://example.org/daily_note_1/</link>
+    <pubDate>Fri, 25 Mar 2022 08:14:07 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/daily_note_1/</guid>
+    <description><![CDATA[最近不知道自己怎么了，心神不宁，只是个普通人，也许是对现在生活的厌倦，也许是对某种不可及生活的向往，也许只是单纯的喜欢和倾慕，可是这又不是喜]]></description>
+</item><item>
     <title>开始的开始</title>
     <link>http://example.org/test/</link>
     <pubDate>Thu, 24 Mar 2022 11:10:05 &#43;0800</pubDate>
