@@ -3,7 +3,14 @@
         <title>所有文章 - 米团</title>
         <link>http://example.org/posts/</link>
         <description>所有文章 | 米团</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Mar 2022 08:14:07 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 15 Apr 2022 18:56:56 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>文章步骤</title>
+    <link>http://example.org/daily_note_2/</link>
+    <pubDate>Fri, 15 Apr 2022 18:56:56 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/daily_note_2/</guid>
+    <description><![CDATA[cd blog_loveit hugo new posts/daily_note_n.md cd content/posts ./daily_note_n.md Modify and save cd blog_loveit hugo &ndash; generate public file cd ../public]]></description>
+</item><item>
     <title>Sigh</title>
     <link>http://example.org/daily_note_1/</link>
     <pubDate>Fri, 25 Mar 2022 08:14:07 &#43;0800</pubDate>
