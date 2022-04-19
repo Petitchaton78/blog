@@ -4,12 +4,12 @@
         <link>http://example.org/posts/</link>
         <description>所有文章 | 米团</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 15 Apr 2022 18:56:56 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>文章步骤</title>
+    <title>发布</title>
     <link>http://example.org/daily_note_2/</link>
     <pubDate>Fri, 15 Apr 2022 18:56:56 &#43;0800</pubDate>
     <author>作者</author>
     <guid>http://example.org/daily_note_2/</guid>
-    <description><![CDATA[cd blog_loveit hugo new posts/daily_note_n.md cd content/posts ./daily_note_n.md Modify and save cd blog_loveit hugo &ndash; generate public file cd ../public]]></description>
+    <description><![CDATA[发布流程基本代码 1 创建新post，名称自选 cd blog_loveit hugo new posts/daily_note_n.md cd content/posts ./daily_note_n.md Modify and save 2 生成可发布代码 cd blog_loveit hugo &ndash; generate public file （must in parent directory) 3 git 同步 cd ../public git add . git commit -m &ldquo;modify&rdquo; git push]]></description>
 </item><item>
     <title>Sigh</title>
     <link>http://example.org/daily_note_1/</link>
