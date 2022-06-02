@@ -7,31 +7,24 @@
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Daily_note_3</title>
-    <link>http://example.org/daily_note_3/</link>
+    <link>http://example.org/daily_thoughts_1/</link>
     <pubDate>Tue, 19 Apr 2022 16:17:32 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>http://example.org/daily_note_3/</guid>
+    <guid>http://example.org/daily_thoughts_1/</guid>
     <description><![CDATA[最近真的不太行，无效的想法无效的工作无效的努力太多了]]></description>
 </item><item>
     <title>发布</title>
-    <link>http://example.org/daily_note_2/</link>
+    <link>http://example.org/publish/</link>
     <pubDate>Fri, 15 Apr 2022 18:56:56 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>http://example.org/daily_note_2/</guid>
+    <guid>http://example.org/publish/</guid>
     <description><![CDATA[发布流程基本代码 1 创建新post，名称自选 cd blog_loveit hugo new posts/daily_note_n.md cd content/posts ./daily_note_n.md Modify and save 2 生成可发布代码 cd blog_loveit hugo &ndash; generate public file （must in parent directory) 3 git 同步 cd ../public git add . git commit -m &ldquo;modify&rdquo; git push]]></description>
 </item><item>
-    <title>Sigh</title>
-    <link>http://example.org/daily_note_1/</link>
-    <pubDate>Fri, 25 Mar 2022 08:14:07 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://example.org/daily_note_1/</guid>
-    <description><![CDATA[最近不知道自己怎么了，心神不宁，只是个普通人，也许是对现在生活的厌倦，也许是对某种不可及生活的向往，也许只是单纯的喜欢和倾慕，可是这又不是喜]]></description>
-</item><item>
     <title>开始的开始</title>
-    <link>http://example.org/test/</link>
+    <link>http://example.org/start/</link>
     <pubDate>Thu, 24 Mar 2022 11:10:05 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>http://example.org/test/</guid>
+    <guid>http://example.org/start/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
